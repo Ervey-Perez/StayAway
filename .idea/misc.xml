@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/beto-/AndroidStudioProjects/LoginValtierrez/app/src/main/res/drawable/boton_bg.xml" value="0.141" />
+        <entry key="..\:/Users/beto-/AndroidStudioProjects/LoginValtierrez/app/src/main/res/drawable/custom.xml" value="0.141" />
+        <entry key="..\:/Users/beto-/AndroidStudioProjects/LoginValtierrez/app/src/main/res/drawable/lista_bg.xml" value="0.141" />
+        <entry key="..\:/Users/beto-/AndroidStudioProjects/LoginValtierrez/app/src/main/res/drawable/login_bg.xml" value="0.141" />
+        <entry key="..\:/Users/beto-/AndroidStudioProjects/LoginValtierrez/app/src/main/res/drawable/texto_bg.xml" value="0.141" />
+        <entry key="..\:/Users/beto-/AndroidStudioProjects/LoginValtierrez/app/src/main/res/layout/activity_bienvenida2.xml" value="0.1" />
+        <entry key="..\:/Users/beto-/AndroidStudioProjects/LoginValtierrez/app/src/main/res/layout/activity_bloqueo.xml" value="0.25" />
+        <entry key="..\:/Users/beto-/AndroidStudioProjects/LoginValtierrez/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/beto-/AndroidStudioProjects/LoginValtierrez/app/src/main/res/layout/activity_registrarse.xml" value="0.25" />
+        <entry key="..\:/Users/beto-/AndroidStudioProjects/LoginValtierrez/app/src/main/res/layout/custom.xml" value="0.203125" />
+        <entry key="..\:/Users/beto-/AndroidStudioProjects/LoginValtierrez/app/src/main/res/layout/registrarse.xml" value="0.203125" />
+        <entry key="..\:/Users/ervey/OneDrive - INSTITUTO TECNOLOGICO DE DELICIAS/Documentos/Ene-Jul2022/Taller de investigacion/Android Studio/LoginValtierrez/app/src/main/res/layout/activity_bloqueo.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
